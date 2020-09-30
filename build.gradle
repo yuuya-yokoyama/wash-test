@@ -16,9 +16,9 @@
 
 //yoko apply plugin: 'org.springframework.boot'
 
-dependencies {
+// dependencies {
 //yoko    implementation project(':line-bot-spring-boot')
 //yoko    implementation "org.springframework.boot:spring-boot-starter-web"
 
 //yoko    testImplementation "org.springframework.boot:spring-boot-starter-test"
-}
+// }
